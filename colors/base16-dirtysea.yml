@@ -16,10 +16,10 @@ colors:
     black:   '0xe0e0e0'
     red:     '0x840000'
     green:   '0x730073'
-    yellow:  '0x755b00'
+    yellow:  '0x755B00'
     blue:    '0x007300'
     magenta: '0x000090'
-    cyan:    '0x755b00'
+    cyan:    '0x755B00'
     white:   '0x000000'
 
   # Bright colors
@@ -30,7 +30,7 @@ colors:
     yellow:  '0xd0d0d0'
     blue:    '0x202020'
     magenta: '0xf8f8f8'
-    cyan:    '0x755b00'
+    cyan:    '0x755B00'
     white:   '0xc4d9c4'
 
 draw_bold_text_with_bright_colors: false
